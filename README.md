@@ -58,7 +58,7 @@ Prof. Paulo Afranio Augusto Lopes. Três aulas integradas até aqui, cada uma qu
 
 O último módulo de cada aula é sempre **F · Fontes**: uma tabela que liga cada módulo às referências usadas nele, seguida da lista numerada completa. O conteúdo dos slides do professor foi mantido e complementado — e onde a complementação divergiu do material original, a divergência está registrada no próprio módulo, com a fonte primária ao lado.
 
-Também há um módulo por aula antecipando como o assunto tende a cair na prova, e um **glossário de 108 termos** em cartões clicáveis, cada um ligado ao módulo em que aparece.
+Também há um módulo por aula antecipando como o assunto tende a cair na prova, e um **glossário de 95 termos** em cartões clicáveis, cada um ligado ao módulo em que aparece.
 
 ---
 

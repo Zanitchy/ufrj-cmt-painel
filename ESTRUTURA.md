@@ -21,7 +21,7 @@ O JavaScript é comentado por seções numeradas. Procure pelo comentário para 
 | `5` a `10` | uma seção por aba |
 | `11. TEMA + BACKUP` | claro/escuro e exportar/importar estado |
 
-`GLOSS` guarda os 108 termos do glossário como arrays de cinco posições: `[categoria, termo, definição curta, detalhe, módulo]`.
+`GLOSS` guarda os 95 termos do glossário como arrays de cinco posições: `[categoria, termo, definição curta, detalhe, módulo]`.
 
 ---
 
