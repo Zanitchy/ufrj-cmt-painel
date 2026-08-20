@@ -34,15 +34,36 @@ Semana em blocos de duas horas, 2ª a 6ª, com a aula corrente destacada em temp
 
 ### Matérias
 
-O grosso do conteúdo. Cada disciplina abre em três abas: **Aulas**, **Flashcards** e **Quiz**. FIW115 tem uma quarta, **Laboratório**.
+O grosso do conteúdo. Cada disciplina abre em três abas: **Aulas**, **Flashcards** e **Quiz**. MAW117 tem uma quarta, **Cronograma**; FIW115 tem **Laboratório**.
 
 ### Provas e prazos
 
-Contagem regressiva por prazo, com as janelas de experimento e as datas de relatório de FIW115 já carregadas.
+Contagem regressiva por prazo. As quatro provas de Cálculo e as duas datas de relatório de Física já vêm carregadas do calendário oficial; o resto você cadastra.
 
 ### Foco
 
 Pomodoro com histórico dos últimos dias.
+
+---
+
+## O cronograma de MAW117 (Introdução ao Cálculo)
+
+Calendário oficial do professor, semana a semana: **23 aulas**, três provas, a segunda chamada, três feriados e os dois dias de SIAC. Segundas e quartas, 08–10h; provas às 17h.
+
+Cada aula aponta para os subtópicos correspondentes da ementa que já está no painel — 37 ligações no total. Clicar num deles marca como estudado, e é o mesmo estado da aba Tópicos: o progresso da matéria acompanha o calendário real.
+
+| Prova | Data |
+| --- | --- |
+| P1 | 16/09 |
+| P2 | 28/10 |
+| P3 | 02/12 |
+| P2CH | 09/12 |
+
+As quatro entram sozinhas em **Provas e prazos**, com contagem regressiva e sem poder ser removidas, junto com o envio (19/11) e a entrega (27/11) do relatório de Física.
+
+> **Sobre as datas.** A planilha original chegou convertida para Markdown e a conversão trocou dia por mês em 14 das 34 linhas. Todas foram reconstruídas pelo dia da semana e conferidas: nenhuma aula cai fora de segunda ou quarta, e os três feriados batem com 7 de setembro, 12 de outubro e 2 de novembro.
+>
+> **Duas coisas continuam em aberto**, e estão sinalizadas dentro do painel: a semana 11 traz *Revisão + P2* duas vezes (26/10 e 28/10), com o mesmo texto; e o asterisco das listas 1, 2 e 3 remete a uma legenda que não veio no arquivo.
 
 ---
 
